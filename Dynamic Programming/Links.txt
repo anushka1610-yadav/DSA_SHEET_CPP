@@ -8,3 +8,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEl
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblNic1RxWlNjeHdnblcyQUVJYjFsLWZFNEJ6QXxBQ3Jtc0trSlVuUnNvZ0RuSWJBTzNEYXFFVnBQQVhQQ1hERmYtVG1GdFBKYjl4SFV6ZzJMMXlWT1lCaVlscDZ4Y0JDajVxTGdla0FZT1NXWGdleTBPSFlodkxPYmJmeEpRLWZ2S0kyTzhtWHQyRXpscm42b1c2cw&q=https%3A%2F%2Ftakeuforward.org%2Fdata-structure%2Fdynamic-programming-frog-jump-dp-3%2F&v=EgG3jsGoPvQ
 
 4-> FROG JUMP WITH K DISTANCE
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmpjR194dnFjZWxSNHYyZHp6Z3duTHRwclpZQXxBQ3Jtc0ttYW1SMkRkNFY3MEhJYm13UHh5QlVmMTJKa2pVemdvLXJJeXVQZ1REMURlOFJyRTdZN295NlJzMlU2RWpQSUtaYURFYzNvYUlRU2d5ZGRIYTgwRHEzaE55a25fNWJNYlNhMkxrMzRiQy1TdGt4RDQ4OA&q=https%3A%2F%2Ftakeuforward.org%2Fdata-structure%2Fdynamic-programming-frog-jump-with-k-distances-dp-4%2F&v=Kmh3rhyEtB8
+
+5-> Maximum sum of non adjacent elements
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJXSlNYTkJqbjFiWDkwazcwZEowZEk0Z3hhd3xBQ3Jtc0tsekRlcW11M1E4Tm9VR2ZxUUtjSURpaHgyOFhsRFBvU1IyZFRPRkF3b2U2Qkt2UWpPRGtTeXNLdVJXUGVoV29ISUdJMlMtbDZrSjc0WjE1RnpvS04xZ2VYaURJM2RzRXcwTUxxWERteXpoMXZNNWphWQ&q=https%3A%2F%2Ftakeuforward.org%2Fdata-structure%2Fmaximum-sum-of-non-adjacent-elements-dp-5%2F&v=GrMBfJNk_NY
